@@ -30,7 +30,7 @@
     "test": "./node_modules/.bin/grunt"
   },
   "dependencies": {
-    "tfs-unlock": "~0.3"
+    "tfs-unlock": "git://github.com/LudovicLeVaillant/tfs-unlock.git"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "0.11.x",
